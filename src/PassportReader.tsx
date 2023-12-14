@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import { scanPassport, NFCPassportModel } from '@better-network/react-native-nfc-passport-reader';
+// import { scanPassport, NFCPassportModel } from '@better-network/react-native-nfc-passport-reader';
+import { scanPassport } from '@better-network/react-native-nfc-passport-reader';
 
 import {
     View,
