@@ -25,6 +25,6 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:name="com.jackbayliss.nfcreader.NfcCardReaderActivity" />
+    <!-- <activity android:name="com.jackbayliss.nfcreader.NfcCardReaderActivity" /> -->
   </application>
 </manifest>
